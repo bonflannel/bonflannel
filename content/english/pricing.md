@@ -1,45 +1,52 @@
 ---
-bg_image: images/feature-bg.jpg
+bg_image: images/plaid.jpg
 cta:
   enable: true
-description: this is meta description
+description: Prices include taxes but do not include shipping costs. Shipping costs will be determined by product weight and delivery urgeny. 
 draft: false
-layout: pricing
-pricing:
-  enable: true
-  pricing_table:
-  - content: Perfect for single freelancers who work by themselves
-    link: '#'
-    name: Basic
-    price: $99
-    services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
-  - content: Suitable for small businesses with up to 5 employees
-    link: '#'
-    name: Premium
-    price: $199
-    services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
-  - content: Suitable for large businesses with unlimited employees
-    link: '#'
-    name: Advance
-    price: $299
-    services:
-    - Unlimited agents
-    - 10 PSD Design
-    - HTML5 Markup
-    - Basic SEO
-    - Email Marketing
-    - 24/7 Tech Support
+lastmod: 2021-12-15
+layout: faq
 title: Our Pricing
 ---
+## Bonjour Creations
+
+
+
+#### 1. Corn Cozies
+
+Regular- Single $14, 2 for $25
+
+Minis- Single $8, 2 for $15
+
+#### 2. Baby Bath Bundlers
+
+$25
+
+#### 3. Blankets
+
+Mini Blankets $20
+
+Loopty Loops $20
+
+#### 4. Woodworking
+Coasters- Single $8, Pair $15
+
+Earrings $10
+
+Nativities- Small $8, Medium $ , Large $
+
+#### 5. Garden Art
+Okra Santas
+
+Gourd Snowmen
+
+#### 6. Other Projects
+Redbud Slice Maps- Small $15, Medium $25, Large $35
+
+Recycled Rust- Angel $15, Heart $5
+
+Boo Boo Bunnies- 
+
+
+
+

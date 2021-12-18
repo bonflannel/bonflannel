@@ -1,12 +1,10 @@
-baseURL: https://demo.gethugothemes.com/airspace/
-title: Airspace | Creative Agency Hugo Template
+baseURL: /
+title: Bonjour Creations
 theme: airspace-hugo
 timeZone: UTC
 paginate: '6'
 summaryLength: '10'
-googleAnalytics: ''
-disqusShortname: themefisher-template
-disableLanguages: []
+disqusShortname: Bonjour_creations
 hasCJKLanguage: no
 module:
   hugoVersion:
