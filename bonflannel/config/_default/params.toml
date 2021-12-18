@@ -1,0 +1,99 @@
+#################### default parameters ################################
+# favicon
+favicon = "images/favicon.jpg"
+# logo
+logo = "images/Logo.jpg"
+# use `px` or `x` with logo_width, example: "100px".
+# Note: logo_width is not work with .svg file
+logo_width = "150px"
+# logo text will only show when logo is missing.
+logo_text = "Bonjour Creations"
+# navbar fixed to top
+navbar_fixed = false
+# OpenGraph / Twitter Card metadata
+description = "This is meta description"
+author = "Bonjour Creations"
+image = "images/Logo.jpg" # this image will be used as fallback if a page has no image of its own
+# Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
+address_descriptors = false
+# contact info
+phone = "405-612-"
+email = "demo@email.com"
+location = """
+**Bonjour Creations**  
+Stillwater, OK
+"""
+# copyright
+copyright = "Website managed by [Bonjour Creations](https://forms.gle/mHeWn3DpPBNm1sTJ9) &copy; 1999, 2020; Designe modified from [Themefisher](https://themefisher.com/)"
+# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
+custom_script= ""
+# google tag manager, see https://developers.google.com/tag-manager/
+google_tag_manager = "" # example: G-XXXXXXXXXX
+# recaptch v3 site key
+recaptcha_site_key = "xxx-xxxxxxxxxxxxxxxxxxxxxxxx"
+
+[contact.form]
+enable = false
+
+# Preloader
+[preloader]
+enable = true
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation button
+[navigation_button]
+enable = true
+label = "Order Request"
+link = "contact"
+
+
+# matomo tracking: see https://matomo.org/
+[matomo]
+enable = false
+url = "" # your matomo url
+id = "" # your matomo id
+
+# baidu analytics: see https://tongji.baidu.com/
+[baidu]
+enable = false
+analytics_id = "" # Your ID
+
+# plausible analytics: see https://plausible.io/
+[plausible]
+enable = false
+domain = "" # yourdomain.com
+
+# counter analytics: see https://counter.dev/setup.html
+[counter]
+enable = false
+username = "" # your username
+
+# site verifications
+[site_verification]
+google = "" # Your verification code
+bing = "" # Your verification code
+baidu = "" # Your verification code
+
+# google map
+[gmap]
+enable = false
+gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+
+# cookies
+[cookies]
+enable = false
+expire_days = 2
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
+
+
+############################# social site ########################
+[[social]]
+#title = "facebook"
+#icon = "fab fa-facebook"  # fontawesome icon pack : https://fontawesome.com/icons/
+#link = "#"
+
+
