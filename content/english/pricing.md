@@ -38,6 +38,8 @@ Nativities- Small $8, Medium $ , Large $
 #### 5. Garden Art
 Okra Santas
 
+Okra Trees
+
 Gourd Snowmen
 
 #### 6. Other Projects
