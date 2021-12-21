@@ -16,17 +16,17 @@ title: Our Pricing
 
 Regular- Single $14, 2 for $25
 
-Minis- Single $8, 2 for $15
+Minis- Single $6, 2 for $10
 
 #### 2. Baby Bath Bundlers
 
-$25
+$22
 
 #### 3. Blankets
 
 Mini Blankets $20
 
-Loopty Loops $20
+Loopty Loops $12
 
 #### 4. Woodworking
 Coasters- Single $8, Pair $15
@@ -36,18 +36,18 @@ Earrings $10
 Nativities- Small $8, Medium $ , Large $
 
 #### 5. Garden Art
-Okra Santas
+Okra Santas $5
 
-Okra Trees
+Okra Trees $5
 
-Gourd Snowmen
+Gourd Snowmen $10
 
 #### 6. Other Projects
 Redbud Slice Maps- Small $15, Medium $25, Large $35
 
 Recycled Rust- Angel $15, Heart $5
 
-Boo Boo Bunnies- 
+Boo Boo Bunnies- $3
 
 
 
