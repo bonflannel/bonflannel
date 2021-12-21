@@ -8,9 +8,10 @@ description: Hooded toweland matching washcloth
 draft: false
 image: images/bbb2.jpg
 information:
-- info: Full sized bath towwel with hood and matching washcloth
+- info: Full sized bath towel with
   label: Materials
-- info: $no idea
+- info: hood and matching washcloth
+- info: $22
   label: Price
 - info: Great baby shower gifts
   label: Uses
